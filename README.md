@@ -2,10 +2,10 @@
 #💫 About Me:
 I'm a software developer with experience in various tech domains. I would consider myself a “generalist” but with a focus in software and fullstack development.
 
-##🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-fernandes/) 
 
-#💻 Tech Stack:
+# 💻 Tech Stack:
 Languages:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
