@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋 I'm Frederico Fernandes</h1>
- 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-fernandes/) 
-</p>
 
 ## 💫 About Me
 I'm a software developer with experience in various tech domains. I would consider myself a “generalist” but with a focus on software and full-stack development.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-fernandes/) 
 
 ## 💻 Tech Stack
 ### Languages
@@ -20,7 +19,6 @@ I'm a software developer with experience in various tech domains. I would consid
 ### Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Developer Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
