@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Frederico Fernandes</h1>
-
+ 
 ## 💫 About Me
 I'm a software developer with experience in various tech domains. I would consider myself a “generalist” but with a focus on software and full-stack development.
 
