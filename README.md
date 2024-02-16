@@ -19,6 +19,8 @@ I'm passionate about crafting efficient and elegant solutions as a Python develo
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23666666.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Pygame](https://img.shields.io/badge/Pygame-%23FFD700.svg?style=for-the-badge&logo=pygame&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
@@ -30,6 +32,3 @@ I'm passionate about crafting efficient and elegant solutions as a Python develo
 
 #### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
-
-
