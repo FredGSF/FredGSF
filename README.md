@@ -14,11 +14,12 @@ I'm passionate about crafting efficient and elegant solutions as a Python develo
 #### Frameworks & Libraries
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%230D5E11.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23666666.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Pygame](https://img.shields.io/badge/Pygame-%23FFD700.svg?style=for-the-badge&logo=pygame&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23666666.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-%23FFD700.svg?style=for-the-badge&logo=pygame&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-%234B8BBE.svg?style=for-the-badge&logo=tkinter&logoColor=white)
 
 #### Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
