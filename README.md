@@ -39,8 +39,7 @@ I'm passionate about crafting efficient and elegant solutions as a Python develo
 #### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FredGSF&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
