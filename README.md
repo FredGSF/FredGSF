@@ -39,8 +39,6 @@ I'm passionate about crafting efficient and elegant solutions as a Python develo
 #### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
