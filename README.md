@@ -40,8 +40,9 @@ I'm passionate about crafting efficient and elegant solutions as a Python develo
 
 ---
 
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredgsf" alt="fredgsf" /></a> </p>
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fredgsf&show_icons=true&locale=en" alt="fredgsf" /></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=FredGSF&icon=0&color=0)](https://visitcount.itsvg.in)
 
