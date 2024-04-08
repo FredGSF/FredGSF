@@ -23,9 +23,8 @@ I'm passionate about crafting efficient and elegant solutions as a Python develo
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-%23666666.svg?style=for-the-badge&logo=beautifulsoup&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-%23FFD700.svg?style=for-the-badge&logo=pygame&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-%234B8BBE.svg?style=for-the-badge&logo=tkinter&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 #### Databases
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
@@ -45,4 +44,3 @@ I'm passionate about crafting efficient and elegant solutions as a Python develo
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=fredgsf&show_icons=true&locale=en" alt="fredgsf" /></p>
 
 ---
-
