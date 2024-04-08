@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=45&pause=1000&color=F7F7F7&background=8639FF&center=true&vCenter=true&random=true&width=550&lines=Hello%2C+I'm+Frederico+Fernandes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=45&pause=1000&color=F7F7F7&background=8639FF&center=true&vCenter=true&random=true&width=340&lines=Hello%2C+I'm+Fred)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-fernandes/) 
 </div>
