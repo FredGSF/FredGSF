@@ -7,6 +7,7 @@
 
 <p align="center">
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=fredgsf&show_icons=true&theme=dracula" />
+  
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=fredgsf&theme=dracula&show_icons=true" />
 </p>
 <div align="center">
