@@ -1,14 +1,18 @@
 <div align="center">
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=45&pause=1000&color=FFD700&background=363636&center=true&vCenter=true&random=true&width=340&lines=Hello%2C+I'm+Fred)](https://git.io/typing-svg)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/f-fernandes/) 
 </div>
 
 <p align="center">
+
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=fredgsf&show_icons=true&theme=highcontrast&rank_icon=percentile" />
   
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=fredgsf&theme=highcontrast&show_icons=true" />
+
 </p>
 <div align="center">
   
@@ -22,4 +26,3 @@
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 </div>
-
