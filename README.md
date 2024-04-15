@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=fredgsf&show_icons=true&theme=highcontrast&rank_icon=percentile" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=fredgsf&show_icons=true&theme=highcontrast" />
   
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=fredgsf&theme=highcontrast&show_icons=true" />
 </p>
