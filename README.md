@@ -10,7 +10,7 @@
 <p align="center">
   <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api?username=fredgsf&show_icons=true&theme=dark&include_all_commits=false" />
   
-  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=fredgsf&theme=dark&show_icons=true&include_all_commits=false" />
+  <img height="200" src="https://github-readme-stats-inky-two-14.vercel.app/api/top-langs/?username=fredgsf&theme=dark&show_icons=true&include_all_commits=true" />
 </p>
 <div align="center">
   
